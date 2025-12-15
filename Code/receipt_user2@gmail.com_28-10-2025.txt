@@ -1,0 +1,19 @@
+ ------------------------------------------------------- 
+|                         RECEIPT                       |
+|-------------------------------------------------------|
+| Date & Time of Booking :          18-10-2025 23:44:11 |
+|-------------------------------------------------------|
+| Customer :                            user2@gmail.com |
+| Movie :                                     Tron Ares |
+| Movie Date :                               28-10-2025 |
+| Hall Number :                                       9 |
+| Location :                                 Mid Valley |
+| Number of Tickets :                                 4 |
+| Seats :                      ['H1', 'H2', 'H3', 'H4'] |
+|-------------------------------------------------------|
+| Total Amount :                                79.5 RM |
+| Booking ID :                                    81955 |
+| Payment Method :                       Online Banking |
+|            Thank you for booking with us!             |
+ ======================================================= 
+

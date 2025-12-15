@@ -1,0 +1,3 @@
+Total Seats Booked = 22
+Total Revenue = 553.90
+{'Card': 2, 'Online Banking': 3, 'E-Wallet': 2, 'Cash': 2}

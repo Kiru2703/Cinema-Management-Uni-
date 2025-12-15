@@ -1,0 +1,19 @@
+ ------------------------------------------------------- 
+|                         RECEIPT                       |
+|-------------------------------------------------------|
+| Date & Time of Booking :          18-10-2025 23:20:50 |
+|-------------------------------------------------------|
+| Customer :                            user3@gmail.com |
+| Movie :                    The Conjuring - Last Rites |
+| Movie Date :                               28-10-2025 |
+| Hall Number :                                       6 |
+| Location :                                 Mid Valley |
+| Number of Tickets :                                 2 |
+| Seats :                                 ['J9', 'J10'] |
+|-------------------------------------------------------|
+| Total Amount :                                42.4 RM |
+| Booking ID :                                    98058 |
+| Payment Method :                             E-Wallet |
+|            Thank you for booking with us!             |
+ ======================================================= 
+

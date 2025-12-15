@@ -1,0 +1,19 @@
+ ------------------------------------------------------- 
+|                         RECEIPT                       |
+|-------------------------------------------------------|
+| Date & Time of Booking :          24-10-2025 09:37:28 |
+|-------------------------------------------------------|
+| Customer :                            user1@gmail.com |
+| Movie :                      Chainsaw Man - The Movie |
+| Movie Date :                               28-10-2025 |
+| Hall Number :                                      11 |
+| Location :                                 Mid Valley |
+| Number of Tickets :                                 4 |
+| Seats :                     ['A1', 'A2', 'A3', 'A11'] |
+|-------------------------------------------------------|
+| Total Amount :                                79.5 RM |
+| Booking ID :                                    61491 |
+| Payment Method :                       Online Banking |
+|            Thank you for booking with us!             |
+ ======================================================= 
+
