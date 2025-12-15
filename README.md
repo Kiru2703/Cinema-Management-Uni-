@@ -3,7 +3,9 @@
 
 This is a console-based Cinema Ticket Booking and Management System written in Python.
 It simulates a real-world cinema environment with multiple user roles, including customers, cinema managers, technicians, and ticketing clerks.
+
 Above 'Code' folder contains python file along with text files used in the program with sample data.
+'Documentation' File contains function by function explination along with Sample Test Runs.
 
 The system handles:
 
