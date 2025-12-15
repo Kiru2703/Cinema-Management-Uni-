@@ -1,0 +1,4 @@
+{'Food Item 1': 'Salted Large Popcorn', 'Drink Item 1': 'Large A&W', 'Food Item 2': 'Mix Large Popcorn', 'Drink Item 2': 'Large Sprite', 'Food Item 3': 'Caramel Regular Popcorn', 'Ordered By': 'user1@gmail.com', 'Food ID': 33935}
+{'Food Item 1': 'Mix Large Popcorn', 'Drink Item 1': 'Large Coke', 'Food Item 2': 'Salted Regular Popcorn', 'Status': 'Collected', 'Collected At': '19-10-2025 02:37:57', 'Ordered By': 'In Store Booking', 'Food ID': 55111}
+{'Food Item 1': 'Mix Large Popcorn', 'Drink Item 1': 'Large Pepsi', 'Status': 'Collected', 'Collected At': '19-10-2025 02:40:26', 'Ordered By': 'In Store Booking', 'Food ID': 60453}
+{'Food Item 1': 'Caramel Large Popcorn', 'Drink Item 1': 'Large Pepsi', 'Food Item 2': 'Mix Regular Popcorn', 'Ordered By': 'user2@gmail.com', 'Food ID': 67696, 'Status': 'Collected', 'Collected At': '19-10-2025 02:42:47'}

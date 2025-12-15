@@ -1,0 +1,19 @@
+ ------------------------------------------------------- 
+|                         RECEIPT                       |
+|-------------------------------------------------------|
+| Date & Time of Booking :          18-10-2025 23:10:48 |
+|-------------------------------------------------------|
+| Customer :                            user2@gmail.com |
+| Movie :                           Kantara - Chapter 1 |
+| Movie Date :                               30-10-2025 |
+| Hall Number :                                       4 |
+| Location :                                 Mid Valley |
+| Number of Tickets :                                 4 |
+| Seats :                      ['G1', 'G2', 'G3', 'G4'] |
+|-------------------------------------------------------|
+| Total Amount :                                79.5 RM |
+| Booking ID :                                    48862 |
+| Payment Method :                       Online Banking |
+|            Thank you for booking with us!             |
+ ======================================================= 
+

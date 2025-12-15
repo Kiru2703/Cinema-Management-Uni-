@@ -1,0 +1,2 @@
+{'Reported by': 'user1@gmail.com', 'Technical Issue': 'AC Not Working', 'Time of Issue': '7:00 PM', 'Cinema ID': '76624', 'Issue ID': 70398, 'Current': 'Not Fixed'}
+{'Reported by': 'user3@gmail.com', 'Technical Issue': 'Screen Not Working', 'Time of Issue': '8:15 PM', 'Cinema ID': '25265', 'Issue ID': 9763, 'Current': 'Not Fixed', 'Status': 'No Issue', 'Last Updated': '19-10-2025'}
